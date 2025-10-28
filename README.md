@@ -55,5 +55,3 @@ Follow these steps to set up the project environment.
     * Other faces will be labeled as "Unknown".
     * Press the **'s'** key to save a screenshot to the `recognition_screenshots/` folder (up to 3 screenshots).
     * Press the **'q'** key to close the application.
-
-## Project Structure
