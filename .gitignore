@@ -10,3 +10,6 @@ Thumbs.db
 recognition_screenshots/
 *.png
 *.jpg
+
+# DeepFace cache file
+known_faces/*.pkl
